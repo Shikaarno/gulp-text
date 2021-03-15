@@ -1,16 +1,26 @@
 {
-  "name": "gulp-project",
+  "name": "gulp_hw",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://gulpjs.com/docs/en/getting-started/quick-start\r https://nodejs.org/en/\r https://www.npmjs.com/",
   "main": "gulpfile.js",
   "scripts": {
     "test": "\\"
   },
-  "author": "",
+  "author": "shikaarno",
   "license": "ISC",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-cssmin": "^0.2.0",
     "gulp-less": "^4.0.1",
+    "gulp-rename": "^2.0.0",
     "gulp-sourcemaps": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shikaarno/gulp-text.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Shikaarno/gulp-text/issues"
+  },
+  "homepage": "https://github.com/Shikaarno/gulp-text#readme"
 }
